@@ -39,6 +39,7 @@ dependencies:
 
   # This package contains pre-canned animations for commonly-desired effects
   animations: ^2.0.0
+  firebase_messaging: ^11.4.2
 
 dev_dependencies:
   flutter_test:
